@@ -1,0 +1,5 @@
+create repo on github
+browse to desired local directory in command prompt
+command: git init
+command: git clone <URL pasted from repo webpage>
+command: git status
