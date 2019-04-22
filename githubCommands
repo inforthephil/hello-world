@@ -3,3 +3,6 @@ browse to desired local directory in command prompt
 command: git init
 command: git clone <URL pasted from repo webpage>
 command: git status
+command: git fetch - check for changes on the repo web version, follow this with a "git status" to read the info
+command: git pull - copies down changes, will warn of uncommited changes that would be lost
+
